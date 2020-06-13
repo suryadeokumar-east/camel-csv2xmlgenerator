@@ -1,0 +1,10 @@
+com/access/holding/processor/PrintInFile.class
+com/access/holding/route/Csv2XmlRouteBuilder$1.class
+com/test/camel_spring/App.class
+com/access/holding/model/City.class
+com/access/holding/route/Csv2XmlRouteBuilder.class
+com/access/holding/processor/SplitFileData.class
+com/access/holding/MainApp.class
+com/test/camel_spring/AppTest.class
+com/access/holding/route/Csv2XmlRouteBuilder$2.class
+com/access/holding/model/Cities.class

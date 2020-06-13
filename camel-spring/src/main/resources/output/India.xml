@@ -1,0 +1,12 @@
+
+<cities>
+    <city name="Bangalore">
+        <population>0.82 mln</population>
+    </city>
+    <city name="Delhi">
+        <population>1.307 mln</population>
+    </city>
+    <city name="Mumbai">
+        <population>0.623 mln</population>
+    </city>
+</cities>

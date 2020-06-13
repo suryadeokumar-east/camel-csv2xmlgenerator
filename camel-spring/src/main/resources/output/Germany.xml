@@ -1,0 +1,15 @@
+
+<cities>
+    <city name="Berlin">
+        <population>3.76 mln</population>
+    </city>
+    <city name="Hamburg">
+        <population>1.82 mln</population>
+    </city>
+    <city name="Munich">
+        <population>1.472 mln</population>
+    </city>
+    <city name="Frankfurt">
+        <population>3.76 mln</population>
+    </city>
+</cities>

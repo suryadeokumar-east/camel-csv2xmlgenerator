@@ -1,0 +1,12 @@
+
+<cities>
+    <city name="Amsterdam">
+        <population>0.82 mln</population>
+    </city>
+    <city name="Utrecht">
+        <population>1.307 mln</population>
+    </city>
+    <city name="Rotterdam">
+        <population>0.623 mln</population>
+    </city>
+</cities>
